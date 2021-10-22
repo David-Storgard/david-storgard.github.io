@@ -1,0 +1,67 @@
+h1{color:aquamarine;
+    text-align: center;
+border: 10px; color: indigo;
+text-transform: uppercase;
+background-color: indigo;
+color: crimson;
+width: 100%;
+position: fixed;
+top: 0px;
+left: 0px;
+margin-top: 0px;
+
+}
+div
+{
+    margin-top: 80px;
+     color: white;
+     border-bottom: double blue;
+     margin-bottom: 10px;
+     
+     
+}
+span{
+border: 10px crimson;
+
+}
+p{font-style: oblique;
+    color: rgb(255, 255, 255)5);
+column-count:1 ;
+font-size: 30px ;
+border-inline: p;
+
+}
+
+p.Ask
+{
+
+
+}
+p.bottom 
+
+{
+color: blueviolet;
+border-top: 2px blue double;
+}
+img{
+    text-align: center;
+
+}
+span{padding: 20px;
+    margin: 20px;
+
+display: block;
+
+}
+label{padding: 100px;}
+input{padding: 100px;}
+
+marquee{
+    background-color: rgb(0, 0, 0);
+    margin-bottom: 0px;
+}
+div.bot
+{
+border-bottom: crimson;
+
+}
